@@ -1,7 +1,12 @@
-NgUIGrid
+[![Build](https://img.shields.io/travis/sapbuild/AngularUIGrid.svg?style=flat-square)](http://travis-ci.org/sapbuild/AngularUIGrid)
+[![Version](https://img.shields.io/npm/v/AngularUIGrid.svg?style=flat-square)](https://npmjs.org/package/AngularUIGrid)
+[![Dependency Status](https://david-dm.org/sapbuild/AngularUIGrid.svg)](https://david-dm.org/sapbuild/AngularUIGrid)
+[![devDependency Status](https://david-dm.org/sapbuild/AngularUIGrid/dev-status.svg)](https://david-dm.org/sapbuild/AngularUIGrid#info=devDependencies)
+[![Coverage](https://img.shields.io/coveralls/sapbuild/AngularUIGrid/master.svg?style=flat-square)](https://coveralls.io/r/sapbuild/AngularUIGrid?branch=master)
+AngularUIGrid
 ========
 
-Copy of Angular UI Grid for Norman
+Copy of Angular UI Grid for Build
 
 Details of the original UI Grid version used can be found in the below "Original UI Grid Version" section.
 No changes done to the original version.
