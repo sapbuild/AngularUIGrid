@@ -1,6 +1,6 @@
 {
   "name": "norman-ng-grid",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "description": "Original ui-grid version is 3.0.0-RC.18, URL is https://github.com/angular-ui/ui-grid.info/tree/gh-pages/release/3.0.0-RC.18",
   "main": "ui-grid.js",
   "repository": {
