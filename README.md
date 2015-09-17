@@ -31,3 +31,10 @@ npm install norman-ng-grid
 ```
 
 Make sure the ui-grid.css and the font files are deployed in the same directory. Otherwise the icons/fonts might not work
+
+# BUILD on GitHub
+
+[Click here](https://github.com/SAP/BUILD) to visit the central BUILD project on GitHub, where you can find out more!
+
+[Click here](https://github.com/SAP/BUILD/blob/master/Contributing.md) to view the BUILD Contribution Guidelines. 
+
