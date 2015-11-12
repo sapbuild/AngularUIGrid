@@ -1,5 +1,5 @@
 [![Build](https://img.shields.io/travis/sapbuild/AngularUIGrid.svg?style=flat-square)](http://travis-ci.org/sapbuild/AngularUIGrid)
-[![Version](https://img.shields.io/npm/v/AngularUIGrid.svg?style=flat-square)](https://npmjs.org/package/AngularUIGrid)
+[![Version](https://img.shields.io/npm/v/norman-ng-grid.svg?style=flat-square)](https://npmjs.org/package/norman-ng-grid)
 [![Dependency Status](https://david-dm.org/sapbuild/AngularUIGrid.svg)](https://david-dm.org/sapbuild/AngularUIGrid)
 [![devDependency Status](https://david-dm.org/sapbuild/AngularUIGrid/dev-status.svg)](https://david-dm.org/sapbuild/AngularUIGrid#info=devDependencies)
 [![Coverage](https://img.shields.io/coveralls/sapbuild/AngularUIGrid/master.svg?style=flat-square)](https://coveralls.io/r/sapbuild/AngularUIGrid?branch=master)
